@@ -9,3 +9,4 @@ Curso: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.co
 ## Beginner
 - [Day 1](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2001) - Working with Variables in Python to Manage Data
 - [Day 2](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2002) - Understanding Data Types and How to Manipulate Strings
+- [Day 3](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2003) - Control Flow and Logical Operators
