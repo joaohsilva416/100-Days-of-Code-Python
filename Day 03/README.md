@@ -4,7 +4,6 @@
 - Introducing the Modulo
 - Nested if statements and elif statements
 - Multiple If Statements in Succession
-- Pizza Order Practice
 - Logical Operators
 
 ## Day 3 Project: Treasure Island
