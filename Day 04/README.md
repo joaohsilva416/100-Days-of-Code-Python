@@ -1,6 +1,6 @@
 # Day 4 - Randomisation and Python Lists
 
-- Ranbom Module
+- Random Module
 - Understanding the Offset and Appending Items to List
 - IndexErrors and Working with Nested Lists
 
