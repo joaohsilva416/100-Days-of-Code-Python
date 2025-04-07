@@ -13,3 +13,4 @@ Curso: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.co
 - [Day 4](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2004) - Randomisation and Python Lists
 - [Day 5](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2005) - Python Loops
 - [Day 6](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2006) - Python Functions and Karel
+- [Day 7](https://github.com/joaohsilva416/100-Days-of-Code-Python/tree/main/Day%2007) - Hangman
